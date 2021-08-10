@@ -44,4 +44,4 @@ def getAllTweets(screen_name):
 
 
 if __name__ == '__main__':
-    getAllTweets("verdesxsiempre")
+    getAllTweets("BillGates")
